@@ -7,7 +7,7 @@
 - [컴퓨터과학과 정재화](https://github.com/jaehwachung) : 클라우드 컴퓨팅 
 
 ### 학생 깃허브
-- [C++프로그래밍/eugene-doobu/knoucpp](https://github.com/eugene-doobu/knoucpp)
+- [eugene-doobu/knoucpp](https://github.com/eugene-doobu/knoucpp) : C++ 프로그래밍 연습문제 풀이
 
 ## 통계·데이터과학과
 
