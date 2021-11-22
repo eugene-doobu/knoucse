@@ -10,3 +10,6 @@
 - [C++프로그래밍/eugene-doobu/knoucpp](https://github.com/eugene-doobu/knoucpp)
 
 ## 통계·데이터과학과
+
+### 교수님 저장소
+- [통계·데이터과학과 이긍희](https://www.kaggle.com/dbetter)
