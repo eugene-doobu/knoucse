@@ -17,3 +17,7 @@
 
 ### 교수님 저장소
 - [통계·데이터과학과 이긍희](https://www.kaggle.com/dbetter) : 예측방법론, 확률의 개념과 응용
+
+### 학생 깃허브
+- [rickiepark/knou_stat](https://github.com/rickiepark/knou_stat) : 방송통신대학교 통계/데이터학과 코드 저장소
+
