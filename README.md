@@ -8,6 +8,7 @@
 
 ### 학생 깃허브
 - [eugene-doobu/knoucpp](https://github.com/eugene-doobu/knoucpp) : C++ 프로그래밍 연습문제 풀이
+- [soorichu/CPP_KNOU](https://github.com/soorichu/CPP_KNOU) : C++ 수업 코드
 
 ## 통계·데이터과학과
 
