@@ -23,4 +23,4 @@
 
 ## 공부자료
 - [출판문화원](https://press.knou.ac.kr/index.do) : 방송통신대학교 출판문화원
-- [HTML6 블로그](https://press.knou.ac.kr/index.do) : 컴퓨터과학과 기출문제 정리
+- [HTML6 블로그](https://html6.tistory.com/category/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90) : 컴퓨터과학과 기출문제 정리
