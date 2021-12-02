@@ -21,3 +21,6 @@
 ### 학생 깃허브
 - [rickiepark/knou_stat](https://github.com/rickiepark/knou_stat) : 방송통신대학교 통계/데이터학과 코드 저장소
 
+## 공부자료
+- [출판문화원](https://press.knou.ac.kr/index.do) : 방송통신대학교 출판문화원
+- [HTML6 블로그](https://press.knou.ac.kr/index.do) : 컴퓨터과학과 기출문제 정리
