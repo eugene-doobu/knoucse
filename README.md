@@ -9,6 +9,7 @@
 ### 학생 깃허브
 - [eugene-doobu/knoucpp](https://github.com/eugene-doobu/knoucpp) : C++ 프로그래밍 연습문제 풀이
 - [eugene-doobu/knouAlgorithm](https://github.com/eugene-doobu/knouAlgorithm) : 알고리즘 코드(c++)
+- [eugene-doobu/knouComputerGraphics](https://github.com/eugene-doobu/knouComputerGraphics) : 방송대 컴퓨터그래픽스 내용 정리
 - [soorichu/CPP_KNOU](https://github.com/soorichu/CPP_KNOU) : C++ 수업 코드
 - [Esantomi/knou](https://github.com/Esantomi/knou) : 방송대 컴퓨터과학과 수업 내용 정리
 
