@@ -13,6 +13,11 @@
 - [soorichu/CPP_KNOU](https://github.com/soorichu/CPP_KNOU) : C++ 수업 코드
 - [Esantomi/knou](https://github.com/Esantomi/knou) : 방송대 컴퓨터과학과 수업 내용 정리
 
+### 추가 자료
+
+- [컴퓨터과학과 클라우드 컴퓨팅 실습 영상](https://www.youtube.com/watch?v=C8xIKurgRPQ)
+
+
 ## 통계·데이터과학과
 
 ### 교수님 깃허브
